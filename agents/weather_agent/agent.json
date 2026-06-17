@@ -1,0 +1,19 @@
+
+{
+    "capabilities": {},
+    "defaultInputModes": ["text/plain"],
+    "defaultOutputModes": ["application/json"],
+    "description": "Provides 5-day weather forecasts for travel planning.",
+    "name": "weather_agent",
+    "skills": [
+      {
+        "id": "weather_forecast",
+        "name": "Weather Forecasting",
+        "description": "Provides forecasts using mock data for a location.",
+        "tags": ["weather", "forecast", "travel"]
+      }
+    ],
+
+    "url": "http://localhost:8001/a2a/weather_agent",
+    "version": "1.0.0"
+  }

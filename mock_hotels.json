@@ -1,0 +1,10 @@
+[
+    {"city": "Paris", "name": "Hotel Lumiere", "rating": 4.5, "price": 120},
+    {"city": "Paris", "name": "Eiffel Stay", "rating": 4.0, "price": 95},
+    {"city": "Paris", "name": "Parisian Comfort", "rating": 4.2, "price": 110},
+    {"city": "London", "name": "Hotelaa Lumiere", "rating": 4.25, "price": 1200},
+    {"city": "London", "name": "Eiffelbb Stay", "rating": 4.90, "price": 950},
+    {"city": "NewYork", "name": "Parisiancc Comfort", "rating": 4.12, "price": 1100}
+  ]
+
+  

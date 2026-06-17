@@ -1,0 +1,9 @@
+# Core Agent Development Kit (pulls in google-genai)
+google-adk
+
+# HTTP clients used by the weather agent / tools
+httpx
+requests
+
+# Loads your .env file (GOOGLE_API_KEY, OPENWEATHERMAP_API_KEY, etc.)
+python-dotenv
